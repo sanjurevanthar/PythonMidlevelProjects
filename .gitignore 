@@ -1,0 +1,14 @@
+# Ignore PyCharm project settings
+.idea/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+ENV/
+
+# OS files
+.DS_Store
+Thumbs.db
